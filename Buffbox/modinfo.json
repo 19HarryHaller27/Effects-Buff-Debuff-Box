@@ -1,0 +1,11 @@
+{
+  "type": "code",
+  "modid": "buffbox",
+  "name": "Buffbox",
+  "authors": ["adams"],
+  "description": "Movable HUD squares for timed buffs/debuffs. /slow = walk ×0.25 for 10s (boot icon). /attackspeed = miningSpeedMul +25% and rangedWeaponsSpeed +25% for 20s (broken sword).",
+  "version": "0.1.0",
+  "dependencies": {
+    "game": "1.22.0"
+  }
+}
